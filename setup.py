@@ -4,9 +4,9 @@ setup(
     name="utils",
     version="0.1",
     packages=find_packages(),
-    description="Utilidades  para proyectos de Python",
+    description="Tools for Python programming",
     author="Josue Caldas",
-    author_email="tu_email@example.com",
+    author_email="josue.caldas@pucp.edu.pe",
     url="https://github.com/josuecaldasv/utils",
     install_requires=[
 
